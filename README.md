@@ -1,9 +1,6 @@
-#########################################################################
-#The Script is designed in accordance with the Splunk Architecture      #
-#                                                                       #
-#   Splunk Should be installed on /opt of the Host Machine              #
-#       The new package gets downloaded via the wget utility            #
-#       Enable your host mahines Proxies prior to running the Script    #
-#       Always run it in Bash Mode                                      #
-#                                                                       #
-### #####################################################################
+The Script is designed in accordance with the Splunk Architecture
+Splunk should be installed on /opt of the host machine. 
+The new package will download via the wget utility
+Export your host machine proxies prior to running the script if necessary
+
+

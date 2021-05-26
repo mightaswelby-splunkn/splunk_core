@@ -21,7 +21,7 @@
 #   Splunk Should be installed on /opt of the Host Machine              #
 #       The new package gets downloaded via the wget utility            #
 #       Enable your host mahines Proxies prior to running the Script    #
-#       Always run it in Bash Mode                                      #
+#
 #                                                                       #
 ### #####################################################################
 
@@ -29,13 +29,13 @@
 ## create splunk upgrade directory and set ownership ##
 
 
-echo ""
+#echo ""
 
-echo "Creating Splunk upgrade directory"
-mkdir /opt/splunk/upgrade
+#echo "Creating Splunk upgrade directory"
+#mkdir /opt/splunk/upgrade
 #chown splunk.splunk /opt/splunk/upgrade
 
-echo ""
+#echo ""
 
 
 
